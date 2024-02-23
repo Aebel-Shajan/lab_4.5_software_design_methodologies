@@ -7,9 +7,28 @@ There are three principle design strategies used in software engineering:
 * Object oriented design
 
 
-## Coupling & Cohesion
+
+## 1 Coupling & Cohesion
+
+Both Coupling and Cohesion are 2 different measures of code quality. In object oriented programming, code is considered high quality if it has high cohesion and low coupling.
+
+Cohesion measure the degree to which elements are functionally related.
+Coupling refers to the interdependence between the modules.
+
+
+[[1]](https://stackoverflow.com/questions/3085285/difference-between-cohesion-and-coupling)
+[[2]](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
 
 ## Top-down vs Bottom-up
+
+Top-down and Bottum-up are two different ways a system can be formulated.
+
+In the top-down model, a general overview of a concept is formulated first, with
+more details defined later on as the problem gets broken down into smaller parts.
+
+In the bottom-down model, the details of the individual parts are formulated first. Then the parts are linked together to form larger components. Object Oriented Programming uses this approach.
+
+[[3]](https://www.geeksforgeeks.org/difference-between-bottom-up-model-and-top-down-model/)
 
 ## Class Diagrams
 
