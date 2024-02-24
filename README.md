@@ -32,7 +32,18 @@ In the bottom-down model, the details of the individual parts are formulated fir
 
 ## Class Diagrams
 
+Class Diagrams would be most useful when formulating the class hierarchy of the Object Oriented design methodology.
+
 ## The Four Pillars of OOP
+
+The Object Oriented Design pattern is built upon four pillars. These are: 
+
+* Abstraction - Hide away implementation from the end user.
+* Encapsulation - Each object should control its own state.
+* Inheritance - Similar objects can inherit methods from a parent object class.
+* Polymorphism - Objects can take on different forms or have multiple behaviors.
+
+[[5]](https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/)
 
 ## Strategy Patern
 
