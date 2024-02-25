@@ -8,7 +8,7 @@ There are three principle design strategies used in software engineering:
 
 
 
-## 1 Coupling & Cohesion
+## Coupling & Cohesion
 
 Both Coupling and Cohesion are 2 different measures of code quality. In object oriented programming, code is considered high quality if it has high cohesion and low coupling.
 
@@ -43,11 +43,19 @@ The Object Oriented Design pattern is built upon four pillars. These are:
 * Inheritance - Similar objects can inherit methods from a parent object class.
 * Polymorphism - Objects can take on different forms or have multiple behaviors.
 
-[[5]](https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/)
+[[4]](https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/)
 
-## Strategy Patern
+## Strategy Pattern
+The Strategy Pattern is a behavioral design pattern that allows you to define a family of algorithms, encapsulate each one of them, and make them interchangeable. It lets the algorithm vary independently from the clients that use it.
+
+
+
+[[5]](https://www.freecodecamp.org/news/a-beginners-guide-to-the-strategy-design-pattern/)
+[[6]](https://dev.to/qgabe/functional-programming-design-patterns-part-1-strategy-pattern-4f92)
 
 ## Online Payment System Example
+
+For the scenario of creating a new online payment system that needs to cater to a wide range of sectors without being tied to any particular one, an object-oriented design methodology, specifically leveraging the Strategy Pattern, is recommended.
 
 Thanks for reading 
 
